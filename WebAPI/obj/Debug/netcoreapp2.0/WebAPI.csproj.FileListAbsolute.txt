@@ -1,0 +1,11 @@
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.deps.json
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.runtimeconfig.json
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.runtimeconfig.dev.json
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.dll
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/bin/Debug/netcoreapp2.0/WebAPI.pdb
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.csprojResolveAssemblyReference.cache
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.csproj.CoreCompileInputs.cache
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.AssemblyInfoInputs.cache
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.AssemblyInfo.cs
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.dll
+/Users/wonsangnha/Downloads/WebAPI/WebAPI/obj/Debug/netcoreapp2.0/WebAPI.pdb
